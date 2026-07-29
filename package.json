@@ -27,7 +27,7 @@
     }
   ],
   "dependencies": {
-    "axios": ">=1.16.0",
+    "axios": ">=1.18.1",
     "form-data": ">=4.0.6"
   },
   "devDependencies": {
@@ -48,11 +48,11 @@
     "test": "test"
   },
   "overrides": {
-    "axios": ">=1.16.0",
+    "axios": ">=1.18.1",
     "form-data": ">=4.0.6"
   },
   "resolutions": {
-    "axios": ">=1.16.0",
+    "axios": ">=1.18.1",
     "form-data": ">=4.0.6"
   }
 }
